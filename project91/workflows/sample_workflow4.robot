@@ -12,4 +12,3 @@ sample testcase02
     
 sample testcase03
     sample keyword3
-    log    test3
